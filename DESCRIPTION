@@ -1,0 +1,50 @@
+Package: projectg1ptds
+Type: Package
+Title: Compute and plot pi
+Version: 0.1.0
+Authors@R: c(
+    person("Rita", "Sefraoui", email= "rita.sefraouitahiri@unil.ch", role = c("aut", "cre")),
+    person("Alexandre", "Schroeter", role = "aut"),
+    person("Leonard", "Philippossian", role = "aut"),
+    person("David", "Pitteloud", role = "aut"), 
+    person("Simon", "Fornerod", role="aut")
+    )
+Maintainer: Rita Sefraoui <rita.sefraouitahiri@unil.ch>
+Description: This package allows us to scrap and clean data from Reddit for text mining utilizations
+Imports: 
+    DT (>= 0.10),
+    glue (>= 1.3.1),
+    lubridate (>= 1.7.4),
+    magrittr (>= 1.5), 
+    Rcpp (>= 1.0.3),
+    RColorBrewer (>= 1.1-2),
+    RedditExtractoR (>= 2.1.5),
+    scales (>= 1.1.0),
+    sf (>= 0.8-0),
+    sparkline (>= 2.0),
+    spData (>= 0.3.2),
+    stopwords (>= 1.0), 
+    textdata (>= 0.3.0),
+    tidygraph (>= 1.1.2),
+    tidytext (>= 0.2.2),
+    tidyverse (>= 1.3.0),
+    timevis (>= 0.5),
+    visNetwork (>= 2.0.9),
+    vroom (>= 1.0.2)
+Depends:
+    stringi (>= 1.4.3), 
+    stringr (>= 1.4.0),
+    tmap (>= 2.3-1),
+    magick (>= 2.2), 
+    leaflet (>= 2.0.3),
+    shiny (>= 1.4.0),
+    shinycssloaders (>= 0.2.0),
+    tidytext (>= 0.2.2),
+    tidyverse (>= 1.3.0),
+    wordcloud2 (>= 0.2.1),
+    plotly (>= 4.9.1),
+    R (>= 3.6.1)
+License: Unlicensed
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
