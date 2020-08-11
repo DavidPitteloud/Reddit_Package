@@ -1,5 +1,3 @@
-# projectg1ptds
-
 # PROGRAMMING TOOLS IN DATA SCIENCE semester project
 Rita Sefraoui Tahiri, Alexandre Schroeter, Leonard Philippossian, Simon Fornerod, David Pitteloud
 
